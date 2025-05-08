@@ -1,1 +1,1 @@
-Gera relatorios baseando-se nos arquivos dentro dos diretorios correspondentes 
+Gera relatorios em planilhas mostrando a quantidade de empresas que foram apuradas, importadas e a quantidade de empresas que foram geradas guias baseando-se nos arquivos dentro dos diretorios correspondentes 
